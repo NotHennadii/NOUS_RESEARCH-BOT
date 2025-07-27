@@ -6,7 +6,7 @@
    ║   │                                                              │      ║
    ║   │ 🧠 AI-powered. Multi-threaded. Proxy-friendly.               │      ║
    ║   │ 💀 Designed for DeepHermes API abuse & creative misuse.      │      ║
-   ║   │ 🧪 Dynamic prompts. AI-generated questions. Smart delays.     │     ║
+   ║   │ 🧪 Dynamic prompts. AI-generated questions. Smart delays.    │      ║
    ║   ╰──────────────────────────────────────────────────────────────╯      ║
    ║                                                                         ║
    ║     Example use:                                                        ║
