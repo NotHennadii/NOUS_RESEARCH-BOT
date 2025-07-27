@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/2457254745272457.PNG" width="100%" alt="Nous Research Fucker Bot banner"/>
-</p>
 
 <pre> <code>  ╔═════════════════════════════════════════════════════════════════════════╗
    ║                                                                         ║
