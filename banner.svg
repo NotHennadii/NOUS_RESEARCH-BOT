@@ -1,3 +1,49 @@
-<p align="center">
-  <img src="banner.svg" width="100%" alt="Nous Research Fucker Bot banner"/>
-</p>
+<svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Glow Filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Typing effect -->
+    <style>
+      .subtitle {
+        font: 16px monospace;
+        fill: #FF5500;
+        opacity: 0.75;
+      }
+      .typing {
+        overflow: hidden;
+        white-space: nowrap;
+        animation: typing 4s steps(50, end), blink 0.75s step-end infinite;
+      }
+      @keyframes typing {
+        from { width: 0 }
+        to { width: 100% }
+      }
+      @keyframes blink {
+        50% { stroke-opacity: 0 }
+      }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#000000"/>
+
+  <!-- Stylized Mouse Head -->
+  <circle cx="150" cy="100" r="40" fill="none" stroke="#FF5500" stroke-width="4" filter="url(#glow)"/>
+  <circle cx="125" cy="70" r="12" fill="none" stroke="#FF5500" stroke-width="3"/>
+  <circle cx="175" cy="70" r="12" fill="none" stroke="#FF5500" stroke-width="3"/>
+  <line x1="130" y1="110" x2="170" y2="110" stroke="#FF5500" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Main Title -->
+  <text x="230" y="95" font-family="monospace" font-size="32" fill="#FF5500" filter="url(#glow)">
+    NOUS RESEARCH FUCKER BOT
+  </text>
+
+  <!-- Typi
+
