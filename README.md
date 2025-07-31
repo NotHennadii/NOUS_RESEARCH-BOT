@@ -1,4 +1,4 @@
-![NOUS Banner](https://github.com/NotHennadii/NOUS_RESEARCH-BOT/blob/main/6524624562456245.PNG?raw=true)
+![NOUS Banner](https://github.com/NotHennadii/NOUS_RESEARCH-BOT/blob/main/652724572457.PNG?raw=true))
 
 
 ## UPDATE ВЕРСИЯ 3.0
