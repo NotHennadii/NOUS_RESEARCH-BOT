@@ -1,4 +1,4 @@
-![NOUS Banner](https://github.com/NotHennadii/NOUS_RESEARCH-BOT/blob/main/652724572457.PNG?raw=true))
+![NOUS Banner](https://github.com/NotHennadii/NOUS_RESEARCH-BOT/blob/main/652724572457.PNG?raw=true)
 
 
 ## UPDATE ВЕРСИЯ 3.1
@@ -9,7 +9,7 @@
 Переработан сам скрипт , значительно уменьшено потребление токенов
 
 
-![NOUS Banner](https://github.com/NotHennadii/NOUS_RESEARCH-BOT/blob/main/652724572457.PNG?raw=true))
+![token Banner](https://github.com/NotHennadii/NOUS_RESEARCH-BOT/blob/main/624565247245.PNG?raw=true)
 
 
 ## 📦 Установка и запуск
