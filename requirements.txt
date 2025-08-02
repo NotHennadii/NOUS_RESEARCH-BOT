@@ -1,4 +1,0 @@
-requests
-web3
-rich
-aiohttp
