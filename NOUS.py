@@ -116,7 +116,7 @@ def print_modern_banner():
 *...............-*#####**+=**+*-....:+=.:*-....................=:..........*. .=##-....   
 ----------------------------------------------------------------------------. .:------:.          
 
-                         [NOUS RESEARCH FUCKER BOT v3.0]
+                         [NOUS RESEARCH FUCKER BOT v3.3]
                   Built for the bleak cold vacuum of rate limits 
 """,
         style="bold cyan"
@@ -618,3 +618,4 @@ if __name__ == "__main__":
     finally:
         # Финальная очистка при выходе
         gc.collect()
+
